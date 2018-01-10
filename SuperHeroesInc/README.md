@@ -4,7 +4,7 @@
 
 - [Original Requirements](#organizational-background)
   - [Branding](#branding)
-  - [Technology Requirements](#technology-requirements)
+  - [Technology Environment](#technology-environment)
 - [Enhancement Request](#enhancement-request)
 - [Notes](#notes)
 ## Organizational Background:
