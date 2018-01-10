@@ -1,5 +1,12 @@
 #  Project Brief: Super Heroes Inc.
 
+## Links
+
+- [Original Requirements](#organizational-background)
+  - [Branding](#branding)
+  - [Technology Requirements](#technology-requirements)
+- [Enhancement Request](#enhancement-request)
+- [Notes](#notes)
 ## Organizational Background:
 
 ### Mission (Visions & Values)
@@ -98,3 +105,40 @@ Their current technology is ok but it needs a major upgrade. Batman was told tha
 ### Keywords for Search
 
 Super Hero, Inc., superhero, citizen safety, drop crime rates, villain
+
+## Enhancement Request:
+
+The client has come back with a critical feature enhancement that must be rolled out upon project completion with the rest of the functionality.  They want a new View that will display the 10 most wanted villains. The requirements are:
+
+- Display a picture of the villain
+
+- Display the villain's name and any aliases
+
+- Optionally, you can include additional information as you see fit
+
+Currently, the 10 most wanted villains are:
+
+1) Magneto
+
+2) Joker
+
+3) Doctor Doom
+
+4) Lex Luthor
+
+5) Loki
+
+6) Ra's Al Ghul
+
+7) Sinestro
+
+8) Two Face
+
+9) Juggernaut
+
+10) Venom
+
+Images and info can be found at [superherodb.com](http://superherodb.com)
+
+## Notes:
+This project was assigned under an intentionally constrained deadline. Because I didn't create this documentation when the project was originally completed, I don't recall what I did and didn't get finished. Future enhancements are planned with the purpose to complete the original requirements.
