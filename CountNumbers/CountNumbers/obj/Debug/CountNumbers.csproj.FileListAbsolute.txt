@@ -1,0 +1,6 @@
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\CountNumbers\CountNumbers\bin\Debug\CountNumbers.exe.config
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\CountNumbers\CountNumbers\bin\Debug\CountNumbers.exe
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\CountNumbers\CountNumbers\bin\Debug\CountNumbers.pdb
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\CountNumbers\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\CountNumbers\CountNumbers\obj\Debug\CountNumbers.exe
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\CountNumbers\CountNumbers\obj\Debug\CountNumbers.pdb

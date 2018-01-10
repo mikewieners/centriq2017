@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroesInc.UI", "src\SuperHeroesInc.UI\SuperHeroesInc.UI.csproj", "{EF465AD5-7250-473D-8068-7ADEDDCB7F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroesInc.EF", "src\SuperHeroesInc.EF\SuperHeroesInc.EF.csproj", "{22021F45-1BD5-498B-9B69-6C3A76478119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF465AD5-7250-473D-8068-7ADEDDCB7F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF465AD5-7250-473D-8068-7ADEDDCB7F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF465AD5-7250-473D-8068-7ADEDDCB7F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF465AD5-7250-473D-8068-7ADEDDCB7F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22021F45-1BD5-498B-9B69-6C3A76478119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22021F45-1BD5-498B-9B69-6C3A76478119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22021F45-1BD5-498B-9B69-6C3A76478119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22021F45-1BD5-498B-9B69-6C3A76478119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

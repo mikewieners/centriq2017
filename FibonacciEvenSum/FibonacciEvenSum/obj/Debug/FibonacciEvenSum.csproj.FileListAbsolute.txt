@@ -1,0 +1,6 @@
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\FibonacciEvenSum\FibonacciEvenSum\bin\Debug\FibonacciEvenSum.exe.config
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\FibonacciEvenSum\FibonacciEvenSum\bin\Debug\FibonacciEvenSum.exe
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\FibonacciEvenSum\FibonacciEvenSum\bin\Debug\FibonacciEvenSum.pdb
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\FibonacciEvenSum\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.csprojResolveAssemblyReference.cache
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\FibonacciEvenSum\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.exe
+C:\Users\mikewieners\Documents\Centriq2017\ARTP\FibonacciEvenSum\FibonacciEvenSum\obj\Debug\FibonacciEvenSum.pdb
