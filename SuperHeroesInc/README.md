@@ -80,11 +80,13 @@ Their current technology is ok but it needs a major upgrade. Batman was told tha
 - Understand Super Heroes, Inc.’s Mission
 - View Local Activities
 - Contact Form
+
 *Super Heroes*
 - Understand Super Heroes, Inc.’s Mission
 - View Local Activities
 - Contact Form
 - Login to see Details of the Super Hero DB
+
 *Administrators*
 - Understand Super Heroes, Inc.’s Mission
 - View Local Activities
